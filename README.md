@@ -1,2 +1,2 @@
-# rd.sh-Single-Page-CV-Project
+# About
 A single-page CV project made in HTML
